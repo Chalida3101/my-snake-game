@@ -1,8 +1,17 @@
-# Flutter
+# Flutter/Dart/Pub related
 .dart_tool/
-.flutter-plugins
 .packages
+.pub-cache/
+.pub/
 build/
-.idea/
+flutter_*.png
+
+# VS Code related
+.vscode/
+
+# macOS / Windows / Android Studio
 *.iml
-pubspec.lock
+*.apk
+*.ipa
+.idea/
+*.lock

@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+
+# IntelliJ related
+*.iml
+.idea/
+
+# VS Code related
+.vscode/
+
+# Android related
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# iOS related
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Web related
+web/.dart_tool/
+web/.packages
+
+# Others
+*.log
+pubspec.lock
