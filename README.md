@@ -1,6 +1,6 @@
-# game_c
+# my-snake-game
 
-A new Flutter project.
+A new Flutter project with Snake Game features.
 
 ## Getting Started
 
